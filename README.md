@@ -6,10 +6,6 @@
 <h1 align="center">
     🌌 SPACE MONSTER - QUÁI VẬT KHÔNG GIAN 🌌
 </h1>
-<h3 align="center">
-    <i>"Hành trình bảo vệ thiên hà khỏi thế lực bóng tối"</i>
-</h3>
-
 <div align="center">
     <p align="center">
         <img src="docs/logo/aiotlab_logo.png" alt="AIoTLab Logo" width="170"/>
@@ -33,7 +29,7 @@
 
 ## 📖 Giới Thiệu Dự Án
 
-**Space Monster** là một dự án game hành động platformer được phát triển bởi sinh viên **Khoa Công Nghệ Thông Tin - Đại Học Đại Nam**, dưới sự hướng dẫn của **AIoTLab**.
+**Space Monster** là một dự án game hành động platformer được phát triển bởi sinh viên **Khoa Công Nghệ Thông Tin - Đại Học Đại Nam**, dưới sự hướng dẫn của Thầy **ThS. Lê Trung Hiếu**.
 
 Trò chơi kết hợp giữa đồ họa 2D cổ điển và công nghệ **Trí Tuệ Nhân Tạo (AI)** hiện đại, cho phép người chơi điều khiển nhân vật hoàn toàn bằng **cử chỉ bàn tay** qua Webcam. Bạn sẽ vào vai **Galactic Guardian**, chiến đấu vượt qua 5 hành tinh đầy rẫy quái vật không gian và những tên Boss hùng mạnh để giải cứu vũ trụ.
 
